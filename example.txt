@@ -1,4 +1,4 @@
 public static void main(String[] args)
 {
-//Код метода
+int a = 5;//Код метода
 }
